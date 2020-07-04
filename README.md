@@ -22,9 +22,9 @@ POST请求
 
 使用说明
 
-1.  引入依赖
-2.  在controller的方法上引入注解@TrimSpace 
-3.  xxxx
+1.  启动项目
+2.  访问接口文档 localhost/doc.html
+3.  测试@TrimSpace
 
 扩展
 

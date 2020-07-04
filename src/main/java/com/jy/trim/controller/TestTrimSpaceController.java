@@ -31,7 +31,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestTrimSpaceController {
 
 
-
     @TrimSpace
     @ApiOperation(value = "新增Teacher--POST，json传值", nickname = "新增组织机构POST")
     @ApiOperationSupport(order=1)

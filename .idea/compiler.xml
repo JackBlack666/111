@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+      <entry name="!?*.js" />
+      <entry name="!?*.css" />
+      <entry name="!?*.html" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="github_main" target="1.8" />
+      <module name="github_test" target="1.8" />
+      <module name="trim_main" target="1.8" />
+      <module name="trim_test" target="1.8" />
+      <module name="trimSpace_main" target="1.8" />
+      <module name="trimSpace_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

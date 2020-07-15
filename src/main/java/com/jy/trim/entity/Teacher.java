@@ -1,4 +1,3 @@
-
 package com.jy.trim.entity;
 
 import io.swagger.annotations.ApiModel;

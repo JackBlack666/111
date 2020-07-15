@@ -1,6 +1,4 @@
-
-package com.jy.trim.common.annotation;
-
+package com.jy.trim.common.trimSpace.annotation;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
@@ -9,17 +7,13 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
-
 /**
- * 去除首尾空格
+ * 去除首尾空格注解
  *
  * @author JinChunZhao
  * @version 1.0
- * @date 2020-06-23 19:30
+ * date 2020-06-23 19:30
  */
-@Target(ElementType.METHOD)
-@Retention(RetentionPolicy.RUNTIME)
-@Documented
-@Inherited
-public @interface TrimSpace {
+@Target(ElementType.METHOD) @Retention(RetentionPolicy.RUNTIME) @Documented @Inherited public @interface TrimSpace {
+
 }

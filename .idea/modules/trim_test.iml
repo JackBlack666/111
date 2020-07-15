@@ -23,6 +23,7 @@
     <orderEntry type="module" module-name="trim_main" />
     <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.9" level="project" />
     <orderEntry type="library" name="Gradle: commons-collections:commons-collections:3.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.alibaba:fastjson:1.2.68" level="project" />
     <orderEntry type="library" name="Gradle: com.github.xiaoymin:knife4j-discovery-spring-boot-starter:1.0" level="project" />
     <orderEntry type="library" name="Gradle: com.github.xiaoymin:knife4j-spring-boot-starter:2.0.2" level="project" />
     <orderEntry type="library" name="Gradle: com.github.xiaoymin:knife4j-spring-ui:2.0.2" level="project" />

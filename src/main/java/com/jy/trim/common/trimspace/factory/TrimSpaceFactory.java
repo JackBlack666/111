@@ -1,4 +1,4 @@
-package com.jy.trim.common.trimSpace.factory;
+package com.jy.trim.common.trimspace.factory;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;

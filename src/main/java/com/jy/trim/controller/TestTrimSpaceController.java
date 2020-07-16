@@ -1,7 +1,7 @@
 package com.jy.trim.controller;
 
 import com.github.xiaoymin.knife4j.annotations.ApiOperationSupport;
-import com.jy.trim.common.trimSpace.annotation.TrimSpace;
+import com.jy.trim.common.trimspace.annotation.TrimSpace;
 import com.jy.trim.common.web.response.ResponseBean;
 import com.jy.trim.entity.Teacher;
 import io.swagger.annotations.Api;

@@ -1,4 +1,4 @@
-package com.jy.trim.common.trimSpace.factory;
+package com.jy.trim.common.trimspace.factory;
 
 /**
  * 去除空格API入口

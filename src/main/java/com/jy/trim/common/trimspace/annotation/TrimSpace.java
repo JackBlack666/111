@@ -1,4 +1,4 @@
-package com.jy.trim.common.trimSpace.annotation;
+package com.jy.trim.common.trimspace.annotation;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
@@ -14,6 +14,10 @@ import java.lang.annotation.Target;
  * @version 1.0
  * date 2020-06-23 19:30
  */
-@Target(ElementType.METHOD) @Retention(RetentionPolicy.RUNTIME) @Documented @Inherited public @interface TrimSpace {
+@Target(ElementType.METHOD)
+@Retention(RetentionPolicy.RUNTIME)
+@Documented
+@Inherited
+public @interface TrimSpace {
 
 }
